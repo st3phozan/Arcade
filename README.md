@@ -7,13 +7,8 @@ We talked about decision trees last week. Decision trees are meant to allow the 
 Decision Tree with If Else:
 In programing, there are if-else statements that analyze a current condition, and perform certain actions based on that condition. Each decision in a decision tree is like an if-else statement in code. For example, a pong decision tree could look a little like this in code:
 
-if (ball left of the paddle) {
-         move paddle left;
-} else if (ball right of the paddle) {
-          move paddle right;
-} else {
-          do nothing;
-}
+![image](https://user-images.githubusercontent.com/90575873/133001725-7a5acfb1-c763-4802-b374-c9a7a707e435.png)
+
 
 Instructions:
 1. Clone this remote repository to create a development environment on your computer
