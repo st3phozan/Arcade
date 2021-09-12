@@ -1,0 +1,34 @@
+/*
+* This is a multiline comment. Comments in code are super important for
+* documentation. Different coding languages use different syntax for 
+* comments and multiline comments. 
+*/
+
+//This is a single line comment. Again, different syntax is used for different languages.
+
+/*
+* - Change each condition to match a condition in your game.
+* - Change each character action to match an action in your game 
+* depending on the condition
+* - Add a single comment about with your name at the top
+* - Add a multiline comment about the game and characters you chose
+*/
+
+
+if (CHANGE ME: condition # 1) {
+    //Add a sentence about your character's action here. 
+} else {
+    //Add a sentence about your character's action here. 
+}
+
+if (CHANGE ME: condition # 2) {
+    //Add a sentence about your character's action here. 
+} else {
+    //Add a sentence about your character's action here. 
+}
+
+if (CHANGE ME: condition # 3) {
+    //Add a sentence about your character's action here. 
+} else {
+    //Add a sentence about your character's action here. 
+}
