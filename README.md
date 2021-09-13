@@ -11,7 +11,7 @@ In programing, there are if-else statements that analyze a current condition, an
 
 
 Instructions:
-1. Clone this remote repository to create a development environment on your computer
+1. Fork and clone this remote repository to create a development environment on your computer
 2. Think of any game you want and think of how you could make a simplified decision tree for three NPCs in the game. It's highly recommended to draw it out on a piece of paper first.
 3. Fill out the code template I give you within your working directory. It won't actually run, we will worry about that next week. 
 4. Use the correct git command to move your changes from the working directory to the staging area. 
