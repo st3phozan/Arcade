@@ -13,9 +13,9 @@ Instructions:
 1. Fork and clone this remote repository to create a development environment on your computer
 2. Pick an existing game and make 3 simplified decision trees inspired by events in the game. (sometimes it's easier to draw it out first)
 3. Modify the code template I give you within Visual Studio Code. 
-4. Use the correct git command to move your changes from the working directory to the staging area. 
-5. Use the correct git command to commit the changes WITH a message about which game and characters you chose.
-6. Use the correct git command to push your commit to the remote repository. 
+4. Add changes from the working directory to the staging area. 
+5. Commit the changes WITH a message about which game and characters you chose.
+6. Push your commit to the remote repository. 
 7. Create a pull request for your commit. 
 
 Hint: Use the cheat sheet found in files on canvas to help. 
