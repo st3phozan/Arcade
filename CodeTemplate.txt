@@ -3,13 +3,13 @@ CODE TEMPLATE:
 //Different syntax is used for comments depending on the language.
 
 //CHANGE ME: Add the title of your game
-//Taylor
+//CHANGE ME: Add your name
 
 
-if (ball is below the paddle) {
-    move the paddle down;
+if (CHANGE ME: condition # 1) {
+    //Add event below
 } else {
-    Move the paddle up
+    //Add event below
 }
 
 if (CHANGE ME: condition # 2) {
