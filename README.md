@@ -7,15 +7,7 @@ We talked about decision trees last week. Decision trees are when a specific eve
 Decision Tree with If Else:
 In programing, there are if-else statements that analyze a current condition, and perform certain actions based on that condition. Each decision in a decision tree is like an if-else statement in code. For example, a pong decision tree could look a little bit like this in code:
 
-if (ball is above paddle){
-  move paddle up;
-} else { 
-  if (ball is below paddle){
-    move paddle down;
-  } else {
-    don't move the paddle;
-  }
-}
+![image](https://user-images.githubusercontent.com/90575873/133648648-cdc6d0b6-1386-4dc9-ab68-84af35ddcdfc.png)
 
 Instructions:
 1. Fork and clone this remote repository to create a development environment on your computer
