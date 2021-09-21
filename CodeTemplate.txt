@@ -2,26 +2,26 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
-//CHANGE ME: Add the title of your game
-//CHANGE ME: Add your name
+//Minecraft
+//Stephen Ozan
 
 
-if (CHANGE ME: condition # 1) {
-    //Add event below
+if (Player runs near a Skeleton) {
+    The Skeleton awakens and focuses on the character
 } else {
-    //Add event below
+   Skeleton continues to walk around and stays passive
 }
 
-if (CHANGE ME: condition # 2) {
-    //Add event below
+if (Player stays near Skeleton for some time) {
+    Skeleton begins to fire arrows
 } else {
-    //Add event below
+    Skeleton becomes passive again after Player leaves
 }
 
-if (CHANGE ME: condition # 3) {
-    //Add event below
+if (An arrow hits the Player) {
+    Player will lose health
 } else {
-    //Add event below
+    Player keeps health and will continue to pursue Skeleton
 }
 
 
